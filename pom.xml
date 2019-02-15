@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>box</name>
-    <description>开箱即用的 Spring Boot 2.1 开源架构</description>
+    <description>基于 Spring Boot 2.1.0 开箱即用的开源架构</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
